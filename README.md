@@ -53,6 +53,6 @@ streamlit run app.py
 ## About
 
 **ChemeNova LLC** is a U.S.-based AI chemical intelligence company.  
-**Ace Industries (India) Pvt. Ltd.** (est. 1980, Mumbai) manufactures industrial centrifuges, dryers, and filtration equipment.
+**Chemrich Global** Chemrich Global is an international chemical manufacturing and distribution company that provides specialty chemicals, high-purity compounds, and advanced formulation solutions along with specialized AI intergrated pharmaceutical equipments. 
 
 Contact: sm3835@njit.edu
