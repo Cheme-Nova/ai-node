@@ -19,7 +19,7 @@ A real-time process analytics dashboard that transforms Chemrich centrifuge hard
 
 ## Results (90-Day Pilot — Specialty Resin Facility)
 
-| Metric | Baseline | AI + Ace Industries |
+| Metric | Baseline |    AI + Chemrich    |
 |--------|----------|---------------------|
 | Average Spin Time | 22 min | 16.5 min (−25%) |
 | Moisture Variance | ±4.2% | ±0.6% |
