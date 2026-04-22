@@ -1,7 +1,7 @@
 # ChemeNova AI Node — Smart Centrifuge Dashboard
 
 **AI-Integrated Centrifuge Monitoring & Optimization**  
-*ChemeNova LLC × Ace Industries (India) Pvt. Ltd.*
+*ChemeNova LLC × Chemrich Global*
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/chemenova/ai-node)
 
