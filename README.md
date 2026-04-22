@@ -9,7 +9,7 @@
 
 ## What This Is
 
-A real-time process analytics dashboard that transforms Ace Industries centrifuge hardware into intelligent, self-optimizing assets. Built on Physics-Informed Neural Networks (PINNs) and FFT vibration analysis.
+A real-time process analytics dashboard that transforms Chemrich centrifuge hardware into intelligent, self-optimizing assets. Built on Physics-Informed Neural Networks (PINNs) and FFT vibration analysis.
 
 **Core capabilities:**
 - **Inflection Point Detection** — identifies the exact moment diminishing dewatering returns begin, triggering optimal discharge (replaces fixed timers)
